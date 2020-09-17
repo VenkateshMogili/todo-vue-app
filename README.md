@@ -1,5 +1,5 @@
-# vue-crashcourse
-
+# Todo Vue Application
+TodoList App using Vue.js
 ## Project setup
 ```
 npm install
